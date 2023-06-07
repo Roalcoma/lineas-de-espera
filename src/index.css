@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(red, green, blue, alpha);
+}
+
+html {
+  /* background-color: #282c34; */
+  min-height: 100vh;
+}

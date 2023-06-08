@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lineas-de-espera/static/css/main.d3297708.css",
+    "main.js": "/lineas-de-espera/static/js/main.39b986c0.js",
+    "static/js/787.ba070d63.chunk.js": "/lineas-de-espera/static/js/787.ba070d63.chunk.js",
+    "index.html": "/lineas-de-espera/index.html",
+    "main.d3297708.css.map": "/lineas-de-espera/static/css/main.d3297708.css.map",
+    "main.39b986c0.js.map": "/lineas-de-espera/static/js/main.39b986c0.js.map",
+    "787.ba070d63.chunk.js.map": "/lineas-de-espera/static/js/787.ba070d63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3297708.css",
+    "static/js/main.39b986c0.js"
+  ]
+}
